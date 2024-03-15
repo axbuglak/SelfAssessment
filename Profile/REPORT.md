@@ -24,7 +24,7 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Process and tools | `0` | `28` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Antipatterns | `0` | `30` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Runtimes and virtual machines | `0` | `5` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Operation systems | `0` | `13` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Operating systems | `0` | `13` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Standards | `0` | `15` |
 | [JavaScript](/Skills/JavaScript.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Language | `57` | `57` |
